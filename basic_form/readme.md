@@ -1,0 +1,1 @@
+<p>This is a basic Form with alot of loopholes. You can edit it to your likings. The form provides you with basic PHP and mysql database connection and saves the data in the databases that is created on the runtime. You can further add your features and use it. </p>
